@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kumari Anisha</h1>
 <h3 align="center">Passionate Developer: Turning Ideas into Reality from India</h3>
 <img align="right"> <img src="https://st2.depositphotos.com/11433486/47394/i/450/depositphotos_473948594-stock-illustration-cartoon-character-girl-sits-at.jpg">
-- 🌱 I’m currently learning **web development, Python**
+- 🌱 I’m currently learning **web development **
 
 - 💬 Ask me about **DSA(C++)**
 
 - 📫 How to reach me **Kumari.anisha.dnb34@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZQFjRSwMq8VNJDVMvYxTM9gQFH6MUKDo/view?usp=drivesdk](https://drive.google.com/file/d/1ZQFjRSwMq8VNJDVMvYxTM9gQFH6MUKDo/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
